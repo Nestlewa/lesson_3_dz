@@ -1,0 +1,45 @@
+
+body {
+    color: aqua;
+}
+
+a {
+    color: pink;
+}
+
+h1 {
+color: darkgreen;
+}
+
+.list {
+    color: blueviolet;
+}
+#part-1,
+#part-3,
+#part-5 {
+    color: red;
+}
+h2.caption {
+    color: yellow;
+}
+div p {
+    color: orange;
+}
+div .caption {
+    color: rgb(145, 86, 86);
+}
+#part-4>p {
+    color: greenyellow;
+}
+#part-2>p {
+    color: rgb(21, 230, 98);
+}
+.caption+p {
+    color: red;
+}
+.list-item~li {
+    color: black;
+}
+.list-item-link {
+    color: lightslategrey;
+}
